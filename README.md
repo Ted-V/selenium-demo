@@ -51,7 +51,7 @@ This report was generated following test execution:
 
 Sharing JavaScript files and code can be a pain. What makes these reports so useful is that they can easily be distributed to others. What's also neat is that you can click on any test script and examine the script's code. This is a great tool for collaboration. 
 
-Here's what clicking on a particular script looks like: 
+Here's what clicking on my first test script looks like: 
 ![test script examined img](imgs/test_report_examined.png)
 
 ## What I Learned
