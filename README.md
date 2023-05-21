@@ -14,7 +14,7 @@ In this project, I used:
 ## What I Tested
 I tested the UI functionality of a basic Book Logger app that I made. I developed this app as part of an online web development curriculum. The app lets users track their reading history. Users may add and remove books from the library. You can view the app live [here](https://ted-v.github.io/book-logger/). 
 
-![books app img](imgs/../app_demo.png)
+![books app img](imgs/app_demo.png)
 
 ## Plan
 To keep things simple, I focused on the following functional requirements:
