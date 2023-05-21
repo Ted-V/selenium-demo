@@ -1,7 +1,7 @@
 # Project Overview: Automated UI Testing with JavaScript, Selenium WebDriver, and Mocha
 
 ## About
-This overview describes a personal project I developed to help me learn Selenium WebDriver and Mocha Test Framework.
+This overview describes a personal project I created to help me learn Selenium WebDriver and Mocha Test Framework.
 
 In this project, I used:
 * Node.js to set up my project directory.
