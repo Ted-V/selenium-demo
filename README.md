@@ -62,3 +62,4 @@ Here's what clicking on my first test script looks like:
 * The `findElements()` method returns a promise that contains a unique ID. This ID can come in handy when you're working with elements that are difficult to locate.
 
 Thanks for reading. If you'd like, you can view my project files directly inside this repository. If you're interested in learning how to write basic test scripts in JavaScript with Selenium, you can read my tutorial [here]("https://github.com/Ted-V/portfolio/blob/main/resources/Selenium_JS_Tutorial/seleniumtut.md").
+
