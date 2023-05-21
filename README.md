@@ -34,7 +34,7 @@ To satisfy these requirements, I came up with 5 test cases. Here they are, brief
 | TC004   | Clicking the Delete button on a book at random deletes that book from the library                | Select a book at random and click its Delete button.                | The deleted book is no longer in the library.                                             |
 | TC005   | Clicking the toggle reading status button on a book at random toggle's that books reading status | Select a book at random and click its toggle reading status button. | The selected book's reading status changed from "Complete" to "Incomplete" or vice versa. |
 
-Although these tests could easily be performed manually, the purpose of this project was to learn how to use Selenium WebDriver to automate them. I imagine these tests could be used in regression testing if I were to later add more features to the app. 
+Although these tests could easily be performed manually, the purpose of this project was to learn how to use Selenium WebDriver to automate them. I imagine these tests could be used in regression testing if I were to add more features to the app. 
 
 I should note that I did not conduct cross-browser testing. One of the major preconditions for these tests is that they are performed in FireFox web browser. 
 
@@ -61,4 +61,4 @@ Here's what clicking on a particular script looks like:
 * Locating an element via XPATH is very useful in situations where you have to make calculations to determine what element to locate.
 * The `findElements()` method returns a promise that contains a unique ID. This ID can come in handy when you're working with elements that are difficult to locate.
 
-Thanks for reading. If you'd like, you can view my project files directly inside this repository.
+Thanks for reading. If you'd like, you can view my project files directly inside this repository. If you're interested in learning how to write basic test scripts in JavaScript with Selenium, you can read my tutorial [here]("https://github.com/Ted-V/portfolio/blob/main/resources/Selenium_JS_Tutorial/seleniumtut.md").
